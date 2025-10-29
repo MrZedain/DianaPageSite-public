@@ -13,6 +13,12 @@ This is a React-based frontend project showcasing Diana Page’s portfolio/work/
 
 -Responsive layout for desktop and mobile
 
+-Lazy loading of images to improve performance and reduce initial load time
+
+-Custom image modal:
+  View images in fullscreen
+  Navigate between images using next/previous arrows
+
 -Optimized builds for deployment
 
 -State management via useState for interactive UI elements
