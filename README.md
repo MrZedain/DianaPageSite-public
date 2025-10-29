@@ -9,7 +9,13 @@ This is a React-based frontend project showcasing Diana Page’s portfolio/work/
 
 ## Features
 
-- React functional components with hooks
-- Responsive layout for desktop and mobile
-- Optimized builds for deployment
+-React functional components with hooks
+
+-Responsive layout for desktop and mobile
+
+-Optimized builds for deployment
+
+-State management via useState for interactive UI elements
+
+-Effect handling via useEffect to trigger side‑effects 
 
