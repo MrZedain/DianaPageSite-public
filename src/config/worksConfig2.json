@@ -1,0 +1,1682 @@
+{
+  "Dwellers": [
+    {
+      "grouping": "2",
+      "title": "How do I get there",
+      "year": "2023",
+      "type": "Oil and spray paint on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Dwellers/How-do-I-get-there.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Headshots",
+      "year": "2023",
+      "type": "Oil and spray paint on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Dwellers/Headshots.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Contemporaries II",
+      "year": "2024",
+      "type": "Oil and spray paint on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "130 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Contemporaries-II.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Contemporaries",
+      "year": "2024",
+      "type": "Oil and spray paint on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "90 cm",
+        "height": "90 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Contemporaries.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Radical Innocence",
+      "year": "2021",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "130 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Radical-Innocence.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "City Melting",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/Dwellers/City-Melting.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "City of Angels",
+      "year": "2024",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Dwellers/City-of-Angels.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Strange weather",
+      "year": "2013",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Dwellers/Strange-weather.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Home mapped",
+      "year": "2024",
+      "type": "Oil and spray paint on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Dwellers/Home-mapped.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Ciragan Portal",
+      "year": "2014",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "100 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Ciragan-Portal.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Goal II",
+      "year": "2013",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "30 cm",
+        "height": "30 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Goal-II.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "June",
+      "year": "",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Dwellers/June.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Goal III",
+      "year": "2013",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "30 cm",
+        "height": "30 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Goal-III.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Park",
+      "year": "2013",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Dwellers/Park.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Occupy",
+      "year": "2005",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "161 cm",
+        "height": "129 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Occupy.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Sea Change",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Sea-Change.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Guardians",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "100 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Guardians.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Gathering",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "100 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Gathering.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Cayirbasi",
+      "year": "2013",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Cayirbasi.jpg"
+    },
+    {
+      "grouping": "1",
+      "title": "Catch",
+      "year": "2008",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "240 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Catch.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Just call it swimming",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Just-call-it-swimming.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "You will never walk alone",
+      "year": "2023",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "31 cm",
+        "height": "37 cm"
+      },
+      "path": "../images/worksV2/Dwellers/You-will-never-walk-alone.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Japan",
+      "year": "2021",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "31 cm",
+        "height": "37 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Japan.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Artemis Remix",
+      "year": "2021",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "31 cm",
+        "height": "37 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Artemis-Remix.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Myth",
+      "year": "2009",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "100 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/Dwellers/Myth.jpg"
+    }
+  ],
+  "Rewilding": [
+    {
+      "grouping": "1",
+      "title": "Glimmerings I and II",
+      "year": "2023",
+      "type": "Oil on spray paint/canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": " 2X (150 cm",
+        "height": "150 cm)"
+      },
+      "path": "../images/worksV2/Rewilding/Glimmerings-I-and-II.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Gulls' Way",
+      "year": "2020",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "130 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Gulls'-Way.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Beara Drive",
+      "year": "2019",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "130 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Beara-Drive.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Flight",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "100 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Flight.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Talisman For Lindsay",
+      "year": "2023",
+      "type": "Oil on spray paint/canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Talisman-For-Lindsay.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Rose Fingered Dawn",
+      "year": "2021",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Rose-Fingered-Dawn.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Jade’s Path",
+      "year": "2021",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Jade’s-Path.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Golden Train Shuttle",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Golden-Train-Shuttle.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Sprung Light",
+      "year": "2021",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Sprung-Light.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Pomegranate Autumn",
+      "year": "",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Rewilding/Pomegranate-Autumn.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Summer Garden Studio",
+      "year": "2023",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Summer-Garden-Studio.jpeg"
+    },
+    {
+      "grouping": "1",
+      "title": "Walking on a Rim of Light",
+      "year": "2023",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "130 cm",
+        "height": "450 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Walking-on-a-Rim-of-Light.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Tall Pink",
+      "year": "2018",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "130 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Tall-Pink.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Pool",
+      "year": "2018",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "31 cm",
+        "height": "37 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Pool.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Spring Hillside",
+      "year": "2018",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Rewilding/Spring-Hillside.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Felt and Light",
+      "year": "2018",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Felt-and-Light.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Home to roost",
+      "year": "2020",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Home-to-roost.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Beara Mountain",
+      "year": "2021",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "130 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Beara-Mountain.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Close and Muddy Isle (Maenporth)",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Close-and-Muddy-Isle-(Maenporth).jpg"
+    },
+    {
+      "grouping": "1",
+      "title": "The Garden is high",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "90 cm",
+        "height": "45 cm"
+      },
+      "path": "../images/worksV2/Rewilding/The-Garden-is-high.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Lale Dance",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "31 cm",
+        "height": "37 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Lale-Dance.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Black Tulips",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "31 cm",
+        "height": "37 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Black-Tulips.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Lycian Pathway",
+      "year": "2012",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Lycian-Pathway.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "The Way Home",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "40 cm",
+        "height": "30 cm"
+      },
+      "path": "../images/worksV2/Rewilding/The-Way-Home.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Karoo",
+      "year": "2015",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "37 cm",
+        "height": "31 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Karoo.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Rose Mountain Sirince",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "26 cm",
+        "height": "22 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Rose-Mountain-Sirince.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Summer Filigree",
+      "year": "2023",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "50 cm",
+        "height": "40 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Summer-Filigree.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Horizon Karoo",
+      "year": "2015",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Rewilding/Horizon-Karoo.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Red Road",
+      "year": "2017",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "50 cm",
+        "height": "40 cm"
+      },
+      "path": "../images/worksV2/Rewilding/Red-Road.jpg"
+    }
+  ],
+  "The-Shipping-Log": [
+    {
+      "grouping": "2",
+      "title": "Freindship",
+      "year": "",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "31 cm",
+        "height": "37 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Freindship.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Turning Ship",
+      "year": "2019",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "31 cm",
+        "height": "37 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Turning-Ship.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Bosphorus Refracted",
+      "year": "2023",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Bosphorus-Refracted.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Wave",
+      "year": "2010",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Wave.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Prism",
+      "year": "2020",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Prism.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Gust",
+      "year": "2018",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Gust.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Sea Bull",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "100 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Sea-Bull.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Night Fishing-II",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Night-Fishing-II.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Epiphany",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Epiphany.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Hush",
+      "year": "2010",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Hush.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Mother's Day Ship",
+      "year": "2006",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Mother's-Day-Ship.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Harlequin Nets",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Harlequin-Nets.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Shear water",
+      "year": "",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Shear-water.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Vision",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "70 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Vision.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Ship-Docking",
+      "year": "2006",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Ship-Docking.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Play of Water",
+      "year": "2019",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Play-of-Water.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Cargo",
+      "year": "2015",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "70 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Cargo.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Sea Change",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Sea-Change.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Ship Bozcaada",
+      "year": "2010",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Ship-Bozcaada.jpg"
+    },
+    {
+      "grouping": "1",
+      "title": "Under Water",
+      "year": "",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Under-Water.jpg"
+    },
+    {
+      "grouping": "1",
+      "title": "Orange Snaffle",
+      "year": "",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Orange-Snaffle.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Ship Building",
+      "year": "2010",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Ship-Building.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Swimmers Frieze",
+      "year": "2009",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Swimmers-Frieze.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Golden Veil",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Golden-Veil.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Spun Ship",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/The-Shipping-Log/Spun-Ship.jpg"
+    }
+  ],
+  "Unknown-Cities": [
+    {
+      "grouping": "2",
+      "title": "Crazy Beautiful",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Crazy-Beautiful.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Home coming jazzy tunes",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "100 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Home-coming-jazzy-tunes.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Kars",
+      "year": "2019",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Kars.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Aleppo",
+      "year": "2010",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Unknown-Cities/Aleppo.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Can you tell me the way to somewhere",
+      "year": "2023",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "130 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Can-you-tell-me-the-way-to-somewhere.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "We knew the map of the piano",
+      "year": "2021",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/We-knew-the-map-of-the-piano.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Depth Structure",
+      "year": "2015",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "70 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Depth-Structure.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Green Fuse",
+      "year": "2020",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Green-Fuse.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Rome Diptych",
+      "year": "2012",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Unknown-Cities/Rome-Diptych.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Venice",
+      "year": "2015",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Unknown-Cities/Venice.jpg"
+    },
+    {
+      "grouping": "1",
+      "title": "Trilogy",
+      "year": "2018",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "180 cm",
+        "height": "40 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Trilogy.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Sprung",
+      "year": "2015",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Sprung.jpeg"
+    },
+    {
+      "grouping": "2",
+      "title": "Galata Improvisation",
+      "year": "2009",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "260 cm",
+        "height": "130 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Galata-Improvisation.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Infernal View",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Unknown-Cities/Infernal-View.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Head for the Hills",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Head-for-the-Hills.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Yellow-road",
+      "year": "2015",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Unknown-Cities/Yellow-road.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Aphrodisias",
+      "year": "2023",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "130 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Aphrodisias.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Flight Path",
+      "year": "2017",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "27 cm",
+        "height": "45 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Flight-Path.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Evening-Pont-Saint-Louis",
+      "year": "2019",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "70 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Evening-Pont-Saint-Louis.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Yellow Blaze",
+      "year": "2017",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "45 cm",
+        "height": "35 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Yellow-Blaze.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Lift",
+      "year": "2012",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "70 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Lift.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Pompidou",
+      "year": "2018",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "90 cm",
+        "height": "45 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Pompidou.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Rose City II",
+      "year": "2022",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Rose-City-II.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Headland",
+      "year": "2017",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Unknown-Cities/Headland.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Fordsburg",
+      "year": "2012",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "150 cm",
+        "height": "150 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Fordsburg.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Driven",
+      "year": "2014",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "60 cm",
+        "height": "40 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Driven.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Passing the square",
+      "year": "2012",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "100 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Passing-the-Square.jpg"
+    },
+    {
+      "grouping": "1",
+      "title": "Arrival Transit Departure",
+      "year": "2020",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "3x(70 cm",
+        "height": "70 cm)"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Arrival-Transit-Departure.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "City Palimpsest",
+      "year": "2012",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/City-Palimpsest.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Prague Dweller",
+      "year": "2013",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "45 cm",
+        "height": "27 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Prague-Dweller.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Tarabya Spring II",
+      "year": "2021",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Tarabya-Spring-II.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Green Park",
+      "year": "2014",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "45 cm",
+        "height": "27 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Park.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Mirage",
+      "year": "2015",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Unknown-Cities/Mirage.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Happening",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "45 cm",
+        "height": "31 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Happening.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Snow Field",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Snow-Field.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Cirali Palimpsest",
+      "year": "2012",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Cirali-Palimpsest.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Canyon",
+      "year": "2009",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "22 cm",
+        "height": "36 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Canyon.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Crane",
+      "year": "2009",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "22 cm",
+        "height": "26 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Crane.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Giraffe",
+      "year": "2015",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Unknown-Cities/Giraffe.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "What Remains",
+      "year": "2012",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "120 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/What-Remains.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Levent 5:30pm",
+      "year": "2005",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "120 cm",
+        "height": "100 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Levent-5.30pm.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Chora Moment",
+      "year": "2014",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "45 cm",
+        "height": "31 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Chora-Moment.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Goal I",
+      "year": "2013",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "30 cm",
+        "height": "30 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Goal-I.jpg"
+    },
+    {
+      "grouping": "1",
+      "title": "Winter Geometry",
+      "year": "2011",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "100 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Winter-Geometry.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Maslak-Moment",
+      "year": "2010",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "100 cm",
+        "height": "70 cm"
+      },
+      "path": "../images/worksV2/Unknown-Cities/Maslak-Moment.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Filigree",
+      "year": "2017",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Unknown-Cities/Filigree.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Ruins in Reverse",
+      "year": "2016",
+      "type": "Oil on canvas",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Unknown-Cities/Ruins-in-Reverse.jpg"
+    }
+  ],
+  "Drawing": [
+    {
+      "grouping": "2",
+      "title": "Buyukdere",
+      "year": "2015",
+      "type": "Charcoal on paper",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "45 cm",
+        "height": "31 cm"
+      },
+      "path": "../images/worksV2/Drawing/Buyukdere.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Boy",
+      "year": "2013",
+      "type": "Charcoal on paper",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Drawing/Boy.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Chora Script",
+      "year": "2014",
+      "type": "Charcoal on paper",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "45 cm",
+        "height": "31 cm"
+      },
+      "path": "../images/worksV2/Drawing/Chora-Script.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Days",
+      "year": "2014",
+      "type": "Charcoal on paper",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Drawing/Days.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Barricade I",
+      "year": "2013",
+      "type": "Mixed media on paper",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "45 cm",
+        "height": "31 cm"
+      },
+      "path": "../images/worksV2/Drawing/Barricade.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Barricade II",
+      "year": "2013",
+      "type": "Mixed media on paper",
+      "availiblity": 1,
+      "dimensions": {
+        "width": "45 cm",
+        "height": "31 cm"
+      },
+      "path": "../images/worksV2/Drawing/Barricade-II.jpg"
+    }
+  ],
+  "Performance": [
+    {
+      "grouping": "3",
+      "title": "Kadinin Sesleri",
+      "year": "2007",
+      "type": "",
+      "availiblity": 0,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/aboutDiana.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Kadinin Sesleri",
+      "year": "2007",
+      "type": "",
+      "availiblity": 0,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Performance/Kadinin-Sesleri.jpg"
+    },
+    {
+      "grouping": "3",
+      "title": "Kadinin Sesleri",
+      "year": "2007",
+      "type": "",
+      "availiblity": 0,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Performance/galatasound4.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Ek se",
+      "year": "2012",
+      "type": "",
+      "availiblity": 0,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Performance/Ek-se-I.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Ek se",
+      "year": "2012",
+      "type": "",
+      "availiblity": 0,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Performance/Ek-se-II.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Pitch Blue",
+      "year": "2008",
+      "type": "",
+      "availiblity": 0,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Performance/Pitch-Blue-I.jpg"
+    },
+    {
+      "grouping": "2",
+      "title": "Pitch Blue",
+      "year": "2008",
+      "type": "",
+      "availiblity": 0,
+      "dimensions": {
+        "width": "",
+        "height": ""
+      },
+      "path": "../images/worksV2/Performance/Pitch-Blue-II.jpeg"
+    }
+  ]
+}

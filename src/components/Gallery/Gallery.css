@@ -1,0 +1,367 @@
+/* body {
+    background-color: rgb(233, 234, 235);
+} */
+
+/* IMAGES GALLERY */
+
+.currentWork {
+    align-self: center;
+    font-size: 70px;
+    color: rgb(186, 186, 186);
+}
+
+.gallery {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    width: 95vw;
+    height: fit-content;
+    color: rgb(102, 102, 102);
+}
+
+
+/* img element */
+.gallery .artwork {
+    /* margin: 5px; */
+    object-fit: contain;
+
+}
+
+.single {
+
+    /* display: grid; */
+    height: fit-content;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.single .artwork {
+
+    width: 95vw;
+
+}
+
+
+.pair {
+    display: flex;
+    justify-content: space-evenly;
+     align-items: center;
+    height: fit-content;
+    width: 95vw;
+    grid-template-columns: repeat(2, 1fr);
+    gap: -10px;
+}
+
+
+.pair .artwork {
+    justify-self: flex-start;
+    height: 550px
+}
+
+.triplet {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    align-items: center;
+    width: 95vw;
+    height: fit-content;
+    /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
+    /* column-gap: 1px; */
+
+}
+
+.triplet .artwork {
+    height: 400px;
+
+}
+
+
+.imgWrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: fit-content;
+    height: fit-content;
+}
+
+.imgtxt {
+    max-width: 350px;
+    display: flex;
+    text-align: left;
+    flex-wrap: wrap;
+}
+
+
+
+.imgWrapClone {
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.imgWrapClone .artwork {
+    margin-top: 20px;
+    height: 100%;
+    max-width: 100%;
+    max-height: 90vh;
+    align-self: center;
+    
+}
+
+
+
+.performanceWrap {
+    line-height: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 100vw;
+    color: black;
+}
+
+.performanceWrap h3 {
+    font-family: MyriadItalic;
+    margin-left: 15px;
+    font-weight: 100;
+}
+
+.performanceWrap li {
+    margin: 15px;
+}
+
+
+/* MODAL CLASSES------------- */
+.modal {
+
+    display: none;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.818);
+    z-index: 101;
+    /* opacity: 0; 
+    transition: opacity 0.3s ease; */
+}
+
+#backbtn {
+    /* position: fixed; */
+
+    margin-left: 20px;
+    z-index: 100;
+}
+
+#nextbtn {
+    /* position: fixed; */
+
+    margin-right: 20px;
+    z-index: 100;
+}
+
+.modalContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: fit-content;
+    height: max-content;
+
+}
+
+.closeModal {
+    color: rgb(69, 69, 69);
+    position: fixed;
+    top: 0;
+    right: 0;
+    font-size: 50px;
+    font-weight: bold;
+    transition: 0.3s;
+
+}
+
+.closeModal:hover,
+.closeModal:focus {
+    color: #000000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* ----------------------------- */
+
+
+
+/* MEDIA QUERIES */
+
+
+@media screen and (max-width: 1780px) {
+
+
+    .triplet .artwork {
+
+        height: 300px;
+    }
+
+    /* .pair {
+   flex-direction: column;
+   
+}
+
+.triplet {
+    flex-direction: column;
+} */
+
+}
+
+@media screen and (max-width: 1680px) {
+
+    .pair .artwork {
+        height: 500px;
+
+    }
+
+}
+
+@media screen and (max-width: 1520px) {
+
+    .pair .artwork {
+        height: 450px;
+
+    }
+
+}
+
+@media screen and (max-width: 1400px) {
+
+    .pair .artwork {
+        height: 400px;
+    }
+
+}
+
+@media screen and (max-width: 1300px) {
+
+    .pair,
+    .triplet {
+        flex-direction: column;
+    }
+
+    .pair .artwork,
+    .triplet .artwork,
+    .single .artwork {
+        width: 700px;
+        height: auto;
+    }
+
+    .imgtxt {
+        margin-bottom: 30px;
+    }
+
+}
+
+
+@media screen and (max-width: 920px) {
+
+    .pair .artwork,
+    .triplet .artwork {
+        width: 500px
+    }
+
+}
+
+
+@media screen and (max-width: 720px) {
+
+    .pair .artwork,
+    .triplet .artwork,
+    .single .artwork {
+        width: 350px
+    }
+
+
+}
+
+@media screen and (max-width: 620px) {
+
+    .pair .artwork,
+    .triplet .artwork {
+        max-width: 320px;
+        height: auto;
+    }
+
+}
+
+@media screen and (max-width: 550px) {
+
+    .imgWrapClone {
+        height: 80%;
+        width: auto;
+    }
+}
+
+/* adjust image size for smaller screens */
+/* @media screen and (max-width: 1220px) {
+
+ .pair, .triplet {
+    flex-direction: column;
+ }
+
+    .pair .artwork, .triplet .artwork, .imgtxt { */
+/* sizes imgtxt appropriately with rest of imgWrap content */
+/* height: fit-content;
+        width: 100%;
+    }
+
+    .imgWrapClone .artwork {
+        max-width: 90%;
+    }
+
+}  */
+
+
+
+/* Decrease gallery width to 1 column */
+/* @media screen and (max-width: 1700px) {
+    .gallery {
+        grid-template-columns: 1fr;
+       
+    }
+} */
+
+/* adjust image size for smaller screens */
+/* @media screen and (max-width: 880px) {
+
+    .gallery .artwork {
+        max-width: 450px;
+        height: auto;
+    }
+
+    .imgWrapClone .artwork {
+        max-width: 90%;
+    }
+
+} */
+
+/* adjust image size for even smaller screens */
+/* @media screen and (max-width: 450px) {
+
+    .gallery {
+        max-width: 90%;
+        height: auto;
+    }
+
+    .gallery .artwork {
+        max-width: 318px;
+        height: auto;
+    }
+} */

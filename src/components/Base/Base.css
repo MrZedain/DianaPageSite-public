@@ -1,0 +1,573 @@
+@font-face {
+    font-family: "Alegreya";
+    src: url('/public/fonts/AlegreyaSansSC-Light.ttf') format("truetype");
+}
+
+
+@font-face {
+    font-family: "Comfortaa";
+    src: url('/public/fonts/Comfortaa-VariableFont_wght.ttf') format("truetype");
+}
+
+
+@font-face {
+    font-family: FuturistFW;
+    src: url("/public/fonts/FUTRFW.TTF");
+}
+
+@font-face {
+    font-family: FuturistFW2;
+    src: url("/public/fonts/FuturistFixed-widthRegular.ttf");
+}
+
+@font-face {
+    font-family: "MyriadRoman";
+    src: url(/public/fonts/MyriadRoman.ttf);
+}
+
+@font-face {
+    font-family: MyriadSemiC;
+    src: url(/public/fonts/MyriadSemiC.otf);
+}
+
+@font-face {
+    font-family: MyriadItalic;
+    src: url(/public/fonts/MyriadItalic.ttf);
+}
+
+
+body {
+    /* background-color: rgb(207, 201, 201); */
+    /* background-color: rgb(233, 234, 235); */
+    background-color: white;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    /* font-family: "Comfortaa"; */
+    font-family: MyriadRoman;
+    z-index: -1;
+}
+
+
+
+/* HAMBURGER WRAP STYLES */
+.hamburgerWrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    color: black;
+    z-index: 100;
+    top: 0;
+    width: 100vw;
+    height: 50px;
+}
+
+/* Smaller screens: Hide hamburgerWrap
+ when navbar is toggled */
+
+.hamburgerWrap.isActive {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+
+
+.hamburgerWrap.isActive h4 {
+    color: rgba(255, 255, 255, 0);
+}
+
+/* .hamburgerWrap h1 {
+    font-family: 'MyriadRoman';
+    font-size: x-large;
+    position: relative;
+    left: 5px;
+} */
+
+.hamburgerTitle {
+    color: #fc1eba;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.hamburger {
+    display: block;
+    margin: 0;
+    width: 35px;
+    cursor: pointer;
+    appearance: none;
+    background: none;
+    outline: none;
+    border: none;
+
+
+}
+
+/* Styling button */
+.hamburger .bar,
+.hamburger:after,
+.hamburger:before {
+    content: "";
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 2px;
+    background-color: black;
+    margin: 6px 0px;
+    transition: 0.4s;
+}
+
+/* Animation activated on click */
+.hamburger.isActive:before {
+    transform: rotate(-45deg) translate(-9px, 6.2px)
+}
+
+.hamburger.isActive:after {
+    transform: rotate(45deg) translate(-6px, -2px)
+}
+
+.hamburger.isActive .bar {
+    opacity: 0;
+
+}
+
+
+
+
+/* Navbar for larger screens */
+.navBar {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.525);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    height: 350px;
+    width: 100vw;
+    top: 0;
+    left: 0;
+    transition: 0.4s ease;
+    z-index: 1;
+    overflow: hidden;
+    scrollbar-width: none;
+    /* Firefox */
+    -ms-overflow-style: none;
+    /* Internet Explorer 10+ */
+}
+
+.navBar::-webkit-scrollbar {
+    display: none;
+    scrollbar-width: none;
+}
+
+
+/* Styling Diana Page */
+
+.titleWrap h1 {
+    font-family: 'MyriadRoman';
+    font-size: xx-large;
+}
+
+.title {
+    margin-bottom: 50px;
+    color: rgb(205, 16, 186);
+}
+
+.dianalogo {
+    /* height: auto;
+    width: auto; */
+    /* height: auto;
+    width: 500px;
+    margin-bottom: 10px; */
+}
+
+.iconsWrap {
+
+    margin-top: 20px;
+    margin-right: 10vw;
+    /* position: absolute; */
+    /* right: 10px; */
+}
+
+.icon {
+    font-size: 20px;
+    margin: 10px;
+    display: inline;
+}
+
+.itemsWrapOff {
+    display: none;
+    color: rgba(237, 237, 237, 0);
+}
+
+.itemsWrap {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 10vw;
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+    /* margin-bottom: 20px; */
+}
+
+.itemsIconsWrap {
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.item {
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 500;
+
+}
+
+
+.home_about {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+
+/* remove default styling */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+/* list in navbar */
+.worksItem, .aboutItem, .booksItem{
+    margin-top: 5px;
+    font-family: 'MyriadSemiC';
+}
+
+
+.selectedWork, .selectedAbout {
+    font-weight: bolder;
+}
+
+.selectedItem {
+    border-bottom: 1px solid black;
+}
+
+
+.worksOFF,
+.aboutOFF, 
+.booksOFF {
+    display: none;
+
+}
+
+.worksON,
+.aboutON {
+   
+    margin-top: 66px;
+    margin-left: 20px;
+    width: 110px;
+    z-index: 101;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.721);
+    color: black;
+    overflow-x: auto;
+    overflow-y: scroll;
+    white-space: nowrap;
+    scrollbar-width: none;
+}
+/* Extra width for booksON */
+.booksON {
+   
+    margin-top: 66px;
+    margin-left: 20px;
+    width: 135px;
+    z-index: 101;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.721);
+    color: black;
+    overflow-x: auto;
+    overflow-y: scroll;
+    white-space: nowrap;
+    scrollbar-width: none;
+}
+
+.aboutON {
+padding-bottom: 24px;
+width: 80px;
+}
+
+.works::-webkit-scrollbar {
+    width: 0;
+    /* Remove scrollbar width */
+    background: transparent;
+    /* Make scrollbar background transparent */
+    display: none;
+
+}
+
+
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+ul li {
+    position: relative;
+}
+
+
+
+hr {
+    margin: 0;
+    width: 60%
+}
+
+
+.subHeadingWrap {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+.worksSubHeading,
+.aboutSubHeading,
+.booksSubHeading {
+    margin: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.worksSubHeading:hover,
+.aboutSubHeading:hover, 
+.booksSubHeading:hover {
+    cursor: pointer;
+}
+
+
+
+
+
+
+/*navbar END */
+
+
+
+/* overall container for rest of page */
+
+.contentMarginTop {
+    margin-top: 350px;
+}
+
+
+.contentMarginTopNone {
+    margin-top: 0;
+}
+
+.content {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+.overflowHidden {
+    overflow: hidden;
+}
+
+.overflowHidden::-webkit-scrollbar {
+    display: none;
+
+}
+
+
+
+
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 1590px) {
+    .item,
+    .worksSubHeading,
+    .aboutSubHeading, 
+    .booksSubHeading {
+        font-size: x-large;
+    }
+
+    .icon {
+        font-size: 15px;
+    }
+    }
+
+    @media screen and (max-width: 1370px) {
+        .item,
+        .worksSubHeading,
+        .aboutSubHeading, 
+        .booksSubHeading {
+            font-size: larger;
+        }
+  
+      
+        }
+
+@media screen and (max-width: 1050px) {
+.itemsWrap {
+    margin-left: 5vw;
+}
+.iconsWrap {
+    margin-right: 5vw;
+}
+}
+
+@media screen and (max-width: 1050px) {
+
+    .item,
+    .worksSubHeading,
+    .aboutSubHeading, 
+    .booksSubHeading {
+        font-size: large;
+    }
+
+    .icon {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+
+    /* Move Navbar up and off screen*/
+    .navBar {
+        position: fixed;
+        top: 0;
+        height: 100vh;
+        width: 100vw;
+        transform: translateY(-100%);
+        justify-content: center;
+        overflow: auto;
+        background-color: white;
+        overflow-y: auto;
+
+    }
+
+    /* Change margin value to height of hamburgerWrap*/
+    .contentMarginTop {
+        margin-top: 50px;
+    }
+
+    .itemsWrap {
+        height: fit-content;
+        margin-left: 0;
+        
+        
+        flex-direction: column;
+        overflow: auto;
+    }
+    .itemsIconsWrap {
+        flex-direction: column;
+    }
+
+    /* Adds space to container allowing scrolling */
+    .itemsWrapPaddingTop {
+        /* adjust value as more options added to navbar */
+        padding-top: 300px ;
+    }
+
+    .iconsWrap {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .worksON, .aboutON, .booksON {
+        position: relative;
+        /* border-top: 2px solid rgb(240, 240, 240); */
+        border-bottom: 2px solid rgba(188, 188, 188, 0.794);
+        text-align: center;
+        margin-top: 0;
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .worksItem, .aboutItem, .booksItem {
+        margin-top: 15px;
+        display: flex;
+        align-items: center;
+        font-size: larger;
+        justify-content: center;
+        text-wrap: wrap;
+        width: 100%;
+        height: 40px;
+
+    }
+
+    .icon {
+        font-size: 15px;
+    }
+
+
+    /* Adjust content since navbar will move up */
+
+
+}
+
+@media screen and (min-width: 1280px) {
+
+    /* Ensure hamburgerWrap is invisible on larger screens */
+    .hamburgerWrap {
+        display: none;
+    }
+
+
+}
+
+
+/* Smaller screens: increase font size amd adjust image size */
+@media screen and (max-width: 450px) {
+
+    .hamburgerWrap h1 {
+        font-size: x-large;
+    }
+
+    .home-gallery {
+        height: auto;
+    }
+
+    .home-gallery,
+    .home-artwork {
+        max-width: 318px;
+        height: auto;
+    }
+}
+
+
+
+/* Slide navbar down when isActive class is applied via button*/
+.navBar.isActive {
+    transform: translateY(0);
+
+}

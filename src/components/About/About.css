@@ -1,0 +1,146 @@
+
+.about-content .backgroundImage {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1; 
+}
+.pageName {
+    color: rgb(177, 177, 177);
+    font-size: 60px;
+    font-weight: 300;
+    align-self: center;
+}
+
+.about-content{
+    margin-top: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    height: fit-content;
+    height: 100vh;
+    font-family: MyriadSemiC;
+    font-size: larger;
+    text-align: left;
+}
+
+
+.bioContent p {
+    line-height: 40px;
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    
+}
+
+.bioContentWrap {
+    display: flex;
+    width: 90vw;
+    justify-content:flex-start;
+    align-items: flex-start;
+    
+
+}
+
+.bioPhoto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: gray
+}
+
+.bioPhoto img {
+    margin-top: 25px;
+    width: 35vw;
+    max-width: 300px;
+    border: 20px solid rgb(222, 222, 222);
+}
+
+.bioText {
+    margin-left: 50px;
+    width: 80%;
+}
+
+@media screen and  (max-width: 1000px)
+{
+    .bioContentWrap {
+        flex-direction: column;
+        align-items: center;
+        
+    }
+}    
+
+
+.CVContent {
+    line-height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    text-align: left;
+    margin-top:50px;
+    width: 100vw;
+}
+
+
+.CVContent h3 {
+    font-family: MyriadItalic;
+ margin-left: 15px;
+ font-weight: 100;
+}
+
+.CVContent li {
+    margin: 15px;
+}
+
+.CVContent div {
+    margin-left: 15vw;
+}
+
+.CVContent ul {
+    margin-bottom: 50px
+}
+
+.statementContent, .bioContent {
+    line-height: 40px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+
+
+ @media screen and (min-width: 850px) {
+    .about-content{
+        margin-top: 200px;
+    }
+ }
+    
+ @media screen and (min-width: 1050px) {
+    .about-content{
+        margin-top: 300px;
+    }
+ }
+    
+ @media screen and (min-width: 1050px) {
+    .about-content{
+        margin-top: 300px;
+    }
+ }
+ @media screen and (min-width: 1200px) {
+    .about-content{
+        margin-top: 400px;
+    }
+ }
+
+ @media screen and (min-width: 1500px) {
+    .about-content{
+        margin-top: 650px;
+    }
+    
+ }
